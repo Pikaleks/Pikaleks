@@ -20,14 +20,14 @@
 
 ---                   
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pikaleks&theme=radical&layout=compact" width="480">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pikaleks&theme=react&layout=compact" width="480">
 </p>
 
 <p align = "right">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Pikaleks&show_icons=true&theme=radical&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Pikaleks&show_icons=true&theme=react&layout=compact">
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pikaleks&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pikaleks&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
 <p align="center">
   <img width="800" src="assets/Skin_Splash_God-King_Garen.jpg">
