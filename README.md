@@ -3,7 +3,7 @@
 ---
 <div align="center">
 
-[<img align="center" alt="Korone Dancing" width="650px" src="assets/Korone.mp4" />](https://youtu.be/ZnP0cKNPE04?t=2m34s)
+[<img align="center" alt="Korone Dancing" width="650px" src="assets/Korone.webp" />](https://youtu.be/ZnP0cKNPE04?t=2m34s)
 
 #### I am currently studying at Epitech Paris (1st year)
 
