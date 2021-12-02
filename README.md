@@ -30,7 +30,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pikaleks&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
 <p align="center">
-  <img width="800" src="https://image0.uhdpaper.com/wallpaper-hd/garen-lol-god-king-splash-art-uhdpaper.com-hd-271.jpg">
+  <img width="800" src="assets/Skin_Splash_God-King_Garen.jpg">
 <p/>
 
 <!--
