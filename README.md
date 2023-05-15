@@ -31,6 +31,10 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pikaleks&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
 <p align="center">
+  <img width="800" src="assets/nagisa.gif">
+<p/>
+---
+<p align="center">
   <img width="800" src="assets/garen.gif">
 <p/>
 
