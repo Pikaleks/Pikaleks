@@ -13,9 +13,10 @@
 
 ---
 
-- Currently learning C
+- C enjoyer and learning C++
 - Writing a useless bot
 - Koronesuki
+- Clannad supremacy
 - Garen Main
 
 ---                   
