@@ -5,7 +5,7 @@
 
 [<img align="center" alt="Korone Dancing" width="650px" src="assets/Korone.webp" />](https://www.youtube.com/watch?v=dUxkwB-DBfI&t=152s&ab_channel=Alex)
 
-#### I am currently studying at Epitech Paris (3rd year)
+#### I am currently studying at Epitech Paris (4th year)
 
 
 </div>
